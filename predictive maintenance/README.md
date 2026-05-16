@@ -7,7 +7,6 @@ Predict machine failure using sensor data (temperature, torque, tool wear, etc.)
 
 ## 📊 Dataset
 - **Kaggle:** https://www.kaggle.com/datasets/shivamb/machine-predictive-maintenance-classification
-- **UCI:** https://archive.ics.uci.edu/dataset/601/ai4i+2020+predictive+maintenance+dataset
 - **Size:** 10,000 rows × 10 columns
 - **Features:** Air Temperature, Process Temperature, Rotational Speed, Torque, Tool Wear, Machine Type
 
