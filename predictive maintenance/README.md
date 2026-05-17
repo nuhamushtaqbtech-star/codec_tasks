@@ -1,4 +1,4 @@
-# 🔧 Predictive Maintenance for Manufacturing
+# PROJECT 1: 🔧 Predictive Maintenance for Manufacturing
 
 > A machine learning pipeline to predict machine failure
 > using sensor data to avoid unplanned downtime.
