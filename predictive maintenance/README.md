@@ -117,15 +117,12 @@ pip install pandas numpy scikit-learn xgboost matplotlib seaborn
 Visit:
 https://www.kaggle.com/datasets/shivamb/machine-predictive-maintenance-classification
 
-Download and rename the file to:
-predictive_maintenance.csv
+Download the file
 
 Place it in the same folder as your code.
 
 ### Step 3 — Run the code
 Open Jupyter Notebook and run all cells
-OR run directly:
-python predictive_maintenance.py
 
 ### Step 4 — Outputs you will see
 - df.head() and df.info() printed
