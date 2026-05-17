@@ -157,22 +157,13 @@ Go to: https://www.kaggle.com/datasets/yeanzc/telco-customer-churn-ibm-dataset
 Download and place Telco_customer_churn.xlsx inside a
 folder named telco/ in your project directory
 
-### Step 3 — Folder structure should look like
-customer_churn/
-├── customer_churn.py
-└── telco/
-    └── Telco_customer_churn.xlsx
-
-### Step 4 — Run the code
+### Step 3 — Run the code
 Open Jupyter Notebook and run all cells
-OR
-python customer_churn.py
 
-### Step 5 — View Outputs
+### Step 4 — View Outputs
 - Churn distribution plots (before/after SMOTE)
 - 3 Confusion Matrix plots side by side
 - ROC Curve comparison for all 3 models
 - Top 10 Feature Importance chart
 - Model comparison table printed in console
 
----
