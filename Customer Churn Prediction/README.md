@@ -1,7 +1,4 @@
-# ═══════════════════════════════════════
 # PROJECT 2: Customer Churn Prediction
-# ═══════════════════════════════════════
-
 ## 1. PROJECT OVERVIEW
 This project builds a machine learning system to predict
 whether a telecom customer will churn (cancel their
